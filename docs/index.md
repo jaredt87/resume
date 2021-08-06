@@ -12,18 +12,16 @@ title: Jared Thomson's Resume
 </div>
 
 ## Summary
-`2021`
+`2021 - Present`
 __Dad, Husband, and Engineer__
 - My passion's include anything computer related, camping,
 woodworking projects/building things, restoring old sewing machines,
 and hanging with my family.
-
 - The last couple of years have given me the opportunity to learn
 several new things within IT including; programming where I've
 learned (python, java, ruby, and linux cli), version control (git), Cloud
 Orchestration (Terraform, Puppet, Kubernetes, and Docker), CI/
 CD tools (CircleCI, and Github Actions), and Logging (PrometheusGrafana, ELK, Loggly, and Datadog).
-
 
 ## Relevant Experience
 `December 2020 - Present`
@@ -32,7 +30,6 @@ __BambooHR - Systems Engineer__
 - - Tools Utilized: Terraform, Puppet, Kubernetes, Docker, AWS, and GCP.
 - Status checking was performed by
 - - Tools Utilized: Grafana, ELK, Loggly, and Datadog.
-
 
 `March 2020 - November 2020`
 __O.C. Tanner - Software Engineer Test__
