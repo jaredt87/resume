@@ -13,6 +13,7 @@ title: Jared Thomson's Resume
 
 ## Summary
 `2021`
+__Dad, Husband, and Engineer__
 - My passion's include anything computer related, camping,
 woodworking projects/building things, restoring old sewing machines,
 and hanging with my family.
