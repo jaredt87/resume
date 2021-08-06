@@ -14,27 +14,21 @@ title: Jared Thomson's Resume
 ## Summary
 `2021 - Present`
 __Father, Husband, and Engineer__
-- My passion's include anything computer related, camping,
-woodworking projects/building things, restoring old sewing machines,
-and hanging with my family.
-- The last couple of years have given me the opportunity to learn
-several new things within IT including; programming where I've
-learned (python, java, ruby, and linux cli), version control (git), Cloud
-Orchestration (Terraform, Puppet, Kubernetes, and Docker), CI/
-CD tools (CircleCI, and Github Actions), and Logging (PrometheusGrafana, ELK, Loggly, and Datadog).
+- My passion's include anything computer related, camping, woodworking projects/building things, restoring old sewing machines, and hanging with my family.
+- The last couple of years have given me the opportunity to learn several new things within IT including; programming where I've learned (python, java, ruby, and linux cli), version control (git), Cloud Orchestration (Terraform, Puppet, Kubernetes, and Docker), CI/CD tools (CircleCI, and Github Actions), and Logging (PrometheusGrafana, ELK, Loggly, and Datadog).
 
 ## Relevant Experience
 `December 2020 - Present`
 __BambooHR - Systems Engineer__
 - Built and maintained new and old infrastructure.
-- - Tools Utilized: Terraform, Puppet, Kubernetes, Docker, AWS, and GCP.
+Tools Utilized: Terraform, Puppet, Kubernetes, Docker, AWS, and GCP.
 - Status checking was performed by
-- - Tools Utilized: Grafana, ELK, Loggly, and Datadog.
+Tools Utilized: Grafana, ELK, Loggly, and Datadog.
 
 `March 2020 - November 2020`
 __O.C. Tanner - Software Engineer Test__
 - Developed quality code using: Ruby/Capybara, and ReactJS
-- Tools Utilized: Bamboo, Docker, GraphQL, Kafka, PaperTrail, Postgres DB
+Tools Utilized: Bamboo, Docker, GraphQL, Kafka, PaperTrail, Postgres DB
 and Puppet Bolt
 - Designed, created, and implemented new tests around API's and UI's using
 Ruby/Capybara
@@ -44,7 +38,7 @@ coordinated test coverage with new code being checked in.
 `May 2019 - March 2020`
 __Solutionreach, Inc. - Software Development Engineer In Test__
 - Developed quality code using: Java/Selenium, and CSS
-- Tools Utilized: Bamboo, Docker, Git, Postgres DB
+Tools Utilized: Bamboo, Docker, Git, Postgres DB
 - Designed, created, and implemented new tests around UI's using Java/
 Selenium
 - Worked on a team of 5-6 developers to 1 Test Engineer where I coordinated
@@ -54,7 +48,7 @@ test coverage with new code being checked in
 __3M - DevOps Engineer__
 - Developed quality code using: Python, PowerShell, and AngularJS
 - Database Technology: MSSQL, and MongoDB
-- Tools Utilized: Hyper-V, and vSphere
+Tools Utilized: Hyper-V, and vSphere
 - Guide architecture of Health Information Systems software install and
 configuration automation
 - Maintained and supported almost 3000 hyper-v, and vSphere vm's
