@@ -8,7 +8,7 @@ title: Jared Thomson's Resume
 <a href="jaredt37@gmail.com">Email</a>
 | <a href="https://www.linkedin.com/in/jaredthomson1987/">LinkedIn</a>
 | <a href="https://github.com/jaredt87">GitHub</a>
-| <a href="https://ammonnelson.glitch.me">My Website</a>
+| <a href="">My Website</a>
 </div>
 
 ## Summary
