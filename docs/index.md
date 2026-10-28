@@ -5,99 +5,103 @@ title: Jared Thomson's Resume
 # __Jared Thomson__
 
 <div id="webaddress">
-<a href="jaredt37@gmail.com">Email</a>
+<a href="mailto:jaredt37@gmail.com">Email</a>
 | <a href="https://www.linkedin.com/in/jaredthomson1987/">LinkedIn</a>
 | <a href="https://github.com/jaredt87">GitHub</a>
-| <a href="">My Website</a>
 </div>
 
 ## Summary
-`2021 - Present`
-__Father, Husband, and Engineer__
-- My passion's include anything computer related, camping, woodworking projects/building things, restoring old sewing machines, and hanging with my family.
-- The last couple of years have given me the opportunity to learn several new things within IT including; programming where I've learned (python, java, ruby, and linux cli), version control (git), Cloud Orchestration (Terraform, Puppet, Kubernetes, and Docker), CI/CD tools (CircleCI, and Github Actions), and Logging (PrometheusGrafana, ELK, Loggly, and Datadog).
+
+Cloud and infrastructure engineer with a software engineering background. I build and support the systems that let development teams ship and operate software reliably, from cloud infrastructure and automation to internal platforms and access controls. Most of my work has been about making complicated systems easier to run, safer to change, and less dependent on manual work.
+
+## Skills
+
+- **Cloud and infrastructure:** AWS, GCP, Linux, EC2, S3, RDS, ECS, EKS, Redis
+- **Infrastructure as code and automation:** Terraform, Puppet, Ansible, Semaphore, Docker
+- **Programming and scripting:** Go, Python, Ruby, Java, PowerShell, Bash
+- **CI/CD and testing:** GitHub Actions, CircleCI, Bamboo, Selenium, Capybara
+- **Monitoring and logging:** Grafana, Prometheus, ELK, Datadog, Loggly
+- **Data and application technologies:** PostgreSQL, MSSQL, MongoDB, GraphQL, Kafka
 
 ## Relevant Experience
+
 `December 2020 - Present`
 __BambooHR - Systems Engineer__
-- Built and maintained new and old infrastructure.
-Tools Utilized: Terraform, Puppet, Kubernetes, Docker, AWS, and GCP.
-- Status checking was performed by
-Tools Utilized: Grafana, ELK, Loggly, and Datadog.
+
+- Build and maintain cloud infrastructure and automation across AWS and GCP using Terraform, Puppet, and related tools.
+- Architected and built a Go-based internal access platform to replace the old SSH and bastion workflow. It uses AWS Systems Manager, IAM, and Okta SSO to give engineers controlled access to infrastructure and services.
+- Built access workflows across multiple AWS accounts, including database proxying and auditing, with a design that supports hundreds of users.
+- Helped reduce infrastructure access costs by more than $100,000 per year.
+- Co-architected an automated monthly patching system using Semaphore and Ansible. The workflow coordinates patching, uses Aptly snapshots, sequences tasks, and accounts for related RDS updates.
+- Monitor and troubleshoot production systems using Grafana, ELK, Loggly, and Datadog.
+- Work with developers and other teams to turn infrastructure needs into systems that are repeatable, supportable, and easier to operate.
 
 `March 2020 - November 2020`
-__O.C. Tanner - Software Engineer Test__
-- Developed quality code using: Ruby/Capybara, and ReactJS
-Tools Utilized: Bamboo, Docker, GraphQL, Kafka, PaperTrail, Postgres DB
-and Puppet Bolt
-- Designed, created, and implemented new tests around API's and UI's using
-Ruby/Capybara
-- Worked on a scrum team of 5-6 developers to 1 Test Engineer where I
-coordinated test coverage with new code being checked in.
+__O.C. Tanner - Software Engineer in Test__
+
+- Built and maintained automated API and UI tests using Ruby and Capybara.
+- Worked with ReactJS applications and services using GraphQL, Kafka, PaperTrail, and PostgreSQL.
+- Worked on a Scrum team of 5-6 developers and coordinated test coverage as new code was checked in.
+- Used Bamboo, Docker, and Puppet Bolt as part of the development and test workflow.
 
 `May 2019 - March 2020`
-__Solutionreach, Inc. - Software Development Engineer In Test__
-- Developed quality code using: Java/Selenium, and CSS
-Tools Utilized: Bamboo, Docker, Git, Postgres DB
-- Designed, created, and implemented new tests around UI's using Java/
-Selenium
-- Worked on a team of 5-6 developers to 1 Test Engineer where I coordinated
-test coverage with new code being checked in
+__Solutionreach, Inc. - Software Development Engineer in Test__
+
+- Designed and implemented UI tests using Java and Selenium.
+- Worked with developers to keep test coverage aligned with new features and code changes.
+- Used Bamboo, Docker, Git, and PostgreSQL in the build and test environment.
 
 `September 2016 - May 2019`
 __3M - DevOps Engineer__
-- Developed quality code using: Python, PowerShell, and AngularJS
-- Database Technology: MSSQL, and MongoDB
-Tools Utilized: Hyper-V, and vSphere
-- Guide architecture of Health Information Systems software install and
-configuration automation
-- Maintained and supported almost 3000 hyper-v, and vSphere vm's
-- Worked with other Developers and QA Engineers across the world to
-automate new software installs and configurations
-- Assist teams and individuals to troubleshoot issues that arose within the
-software
-- Worked on a scrum team with 7 developers, where I coordinated my sprints
-to the needs of the business
 
-`Jan 2016 – Sep 2016`
-__Zions Bancorporation - Business System Analyst__
-- Provide infrastructure support for existing and new application.
-- Serve as a liaison between departments.
-- Perform project management and business analyst functions.
-- Determined requirements, designs, builds, tests, implementation, maintain and enhance business
-systems.
-- Developed and implemented comprehensive test plans to ensure that systems and programs are tested
-and debugged.
-- Installed and maintained applications in production, staging, test and DR environments including
-new release, enhancements, and upgrades.
-- Utilized application knowledge to effectively troubleshoot, diagnose and resolve problems.
-- Ensured resolution of incidents of medium and high complexity in accordance with established
-standards, policies, procedures, configuration guidelines, and service level agreements for applications.
-- Worked with vendors as needed to resolve issues. Responsible to facilitate new or enhanced change
-management requests and post-change validations.
-`May 2015 – Jan 2016`
+- Supported nearly 3,000 virtual machines running on Hyper-V and vSphere.
+- Built automation for software installation and configuration using Python, PowerShell, and AngularJS.
+- Helped guide the architecture of installation and configuration automation for Health Information Systems software.
+- Worked with developers and QA engineers across teams and locations to automate deployments and troubleshoot problems.
+- Used MSSQL and MongoDB and coordinated work within a Scrum team.
+
+`January 2016 - September 2016`
+__Zions Bancorporation - Business Systems Analyst__
+
+- Supported infrastructure and applications in production, staging, test, and disaster-recovery environments.
+- Worked with business and technical teams to gather requirements, plan changes, test releases, and validate implementations.
+- Troubleshot application issues and coordinated with vendors and internal teams to resolve incidents.
+- Helped manage change requests, upgrades, and post-change validation.
+
+`May 2015 - January 2016`
 __Zions Bancorporation - Technical Support Specialist__
-- Strong analytical/problem solving skills balanced with effective communication and excellent
-customer service skills.
-- Ability to work independently and in a team environment, analyze problems and make decisions with
-minimal management intervention.
-- Knowledge of: Windows platforms, Mac OS X, Android, iPhone, multiple internet browsers, support for
-remote and local staff, network, voice, Citrix XenApp Admin Tools, and Active Directory.
-- Proactively identify coaching/training opportunities on incoming calls, chats, support tickets, and emails,
-and give information that will enhance and improve customer satisfaction.
-- Maintain knowledge of company policies, procedures, and programs by frequently checking
-resources, reading e-mails, updates, and information.
+
+- Supported local and remote staff across Windows, Mac OS, mobile devices, browsers, networking, Citrix XenApp, and Active Directory.
+- Investigated support issues, resolved problems, and explained solutions to users.
+- Identified opportunities to coach users and improve support through calls, chats, tickets, and email.
+
+## Selected Engineering Projects
+
+**ackOS - [github.com/jaredt87/ackOS](https://github.com/jaredt87/ackOS)**
+
+- Building an execution-control system that puts authorization, execution lifecycle, verification, recovery, and commit decisions in a clear boundary.
+- Developed a plugin-host/provider architecture and typed Git read and write primitives.
+- Focused on making changes against real repositories safely, including checking that the state being changed still matches the state that was authorized.
+
+**Wingman - [github.com/jaredt87/wingman](https://github.com/jaredt87/wingman)**
+
+- Building an AI engineering partner designed to work with a team's context and ways of working, rather than treating every request as a one-off prompt.
+- Integrating Wingman with ackOS so infrastructure changes can be requested through an AI workflow while execution authority and verification stay in a separate control system.
+- Working toward an end-to-end test against a real Terraform repository.
 
 ## Education
-`2014-2019`
+
+`2014 - 2019`
 __University of Phoenix__
-- Bachelor of Science in Information Technology with an Advanced Software Developer Certificate
+
+- Bachelor of Science in Information Technology
+- Advanced Software Developer Certificate
 - National Society of Collegiate Scholars
 
-## Certifications
-`2021-Present`
+## Certifications and Training
+
 - Kubernetes
-- GIT
+- Git
 - Python
 - DevOps
 - Software Quality Assurance
