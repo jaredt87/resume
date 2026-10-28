@@ -26,7 +26,7 @@ Cloud and infrastructure engineer with a software engineering background. I buil
 ## Relevant Experience
 
 `December 2020 - Present`
-__BambooHR - Systems Engineer__
+__BambooHR - Staff Systems Engineer__
 
 - Build and maintain cloud infrastructure and automation across AWS and GCP using Terraform, Puppet, and related tools.
 - Architected and built a Go-based internal access platform to replace the old SSH and bastion workflow. It uses AWS Systems Manager, IAM, and Okta SSO to give engineers controlled access to infrastructure and services.
