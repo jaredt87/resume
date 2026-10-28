@@ -1,16 +1,19 @@
-# jared-thomson-resume
+# Jared Thomson — Résumé
 
-This is jared thomson's resume
+Professional résumé for **Staff Systems Engineer** roles focused on cloud infrastructure, platform engineering, automation, secure access, systems architecture, and cost control.
 
-***
+## View the résumé
 
-### Author
-Give credit to the original author 
+**[Read the résumé](https://github.com/jaredt87/resume/blob/master/docs/index.md)**
 
-Eliseo Papa ([Twitter](http://twitter.com/elipapa)/[Github](http://github.com/elipapa)/[Website](https://elipapa.github.io)).
+## Connect
 
-![Eliseo Papa](https://s.gravatar.com/avatar/eae1f0c01afda2bed9ce9cb88f6873f6?s=100)
+- [GitHub profile](https://github.com/jaredt87)
+- [LinkedIn](https://www.linkedin.com/in/jaredthomson1987/)
+- [Email](mailto:jaredt37@gmail.com)
 
-### License
+## Source
 
-[MIT License](https://github.com/elipapa/markdown-cv/blob/master/LICENSE)
+The résumé is maintained in Markdown in [`docs/index.md`](docs/index.md).
+
+A dedicated GitHub Pages portfolio site and downloadable PDF can be added so the résumé and project portfolio are available in a polished, recruiter-friendly format.
