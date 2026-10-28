@@ -4,7 +4,9 @@ Professional résumé for **Staff Systems Engineer** roles focused on cloud infr
 
 ## View the résumé
 
-**[Read the résumé](https://jaredt87.github.io/resume.html)**
+- **[Read the formatted résumé](https://jaredt87.github.io/resume.html)**
+- [Open the portfolio website](https://jaredt87.github.io)
+- [Browse the Markdown source](https://github.com/jaredt87/resume/blob/master/docs/index.md)
 
 ## Connect
 
@@ -16,4 +18,4 @@ Professional résumé for **Staff Systems Engineer** roles focused on cloud infr
 
 The résumé is maintained in Markdown in [`docs/index.md`](docs/index.md).
 
-A dedicated GitHub Pages portfolio site and downloadable PDF can be added so the résumé and project portfolio are available in a polished, recruiter-friendly format.
+The portfolio and formatted résumé are published with GitHub Pages. Use **Print / Save PDF** on the rendered résumé to save a PDF copy.
