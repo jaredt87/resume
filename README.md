@@ -4,7 +4,7 @@ Professional résumé for **Staff Systems Engineer** roles focused on cloud infr
 
 ## View the résumé
 
-**[Read the résumé](https://github.com/jaredt87/resume/blob/master/docs/index.md)**
+**[Read the résumé](https://jaredt87.github.io/resume.html)**
 
 ## Connect
 
