@@ -16,22 +16,22 @@ Staff Systems Engineer focused on cloud platforms, infrastructure automation, se
 
 ## Selected Impact
 
-- Replaced legacy SSH, bastion, and third-party access workflows with a Go-based platform using AWS Systems Manager, IAM, and Okta SSO; estimated to reduce licensing costs by more than $100,000 per year.
-- Built governed access workflows across multiple AWS accounts for infrastructure and databases, with auditing and a design that supports hundreds of users.
-- Co-architected automated monthly patching and infrastructure image-build pipelines to make recurring maintenance more consistent and less manual.
-- Helped teams move toward dynamic, self-service infrastructure patterns, including Cloudflare Workers routing and adoption by frontend engineers.
+- Built and operate a Go-based internal access platform that replaces legacy SSH, bastion, and third-party access workflows; estimated licensing savings exceed $100,000 per year.
+- Co-architected a trusted monthly patching system that has run reliably for four years, automating recurring maintenance and reducing the manual effort required from the infrastructure team.
+- Serve as the Cloudflare SME while helping teams own their Workers and routing workflows independently, supporting a broader move toward Cloudflare as the front door for company traffic.
+- Help improve the infrastructure behind revenue-generating services, including a fleet of roughly 300 legacy static servers, while teams evaluate a path toward Kubernetes.
 
 ## Experience
 
 `December 2020 - Present`
 __BambooHR - Staff Systems Engineer__
 
-- **Platform architecture, security, and auditability:** Architected and built a Go-based internal access platform replacing legacy SSH, bastion, and third-party tooling. Integrated AWS Systems Manager, IAM, and Okta SSO across multiple AWS accounts, with database proxying, role-based access, administrative escalation, and activity auditing for services including EC2, RDS, ECS, EKS, and Redis. Designed to support hundreds of users.
-- **Cost reduction:** Helped eliminate more than $100,000 per year in estimated infrastructure-access licensing costs by replacing the previous access approach with an internally owned platform.
-- **Operational automation:** Co-architected monthly patching with Semaphore and Ansible, including Aptly snapshots, task sequencing, and coordination with related RDS updates; also built and improved Auto Scaling Group image-build pipelines to reduce reliance on manual operational steps.
-- **Cloud edge and developer enablement:** Served as a Cloudflare Workers subject-matter resource. Helped shape URI-based routing through Cloudflare Load Balancers and Workers to regional services, and mentored frontend engineers adopting repository-based Workers workflows.
-- **Cost and reliability operations:** Investigate infrastructure cost anomalies and work through the causes and fixes, alongside production monitoring and troubleshooting with Grafana, ELK, Loggly, and Datadog.
-- **Technical leadership:** Guide architecture and implementation, break larger initiatives into workable engineering steps, and help teams move static infrastructure toward more dynamic, maintainable systems.
+- **Infrastructure strategy and technical leadership:** Help guide the evolution of infrastructure supporting revenue-generating business services, including roughly 300 legacy static servers. Work with engineers and stakeholders to redesign systems, improve how they operate, and evaluate migration paths toward Kubernetes. Provide day-to-day technical guidance and help the team make sound engineering decisions.
+- **Secure access platform and cost reduction:** Architected and built a Go-based internal access platform replacing legacy SSH, bastion, and third-party tooling. Integrated AWS Systems Manager, IAM, and Okta SSO across multiple AWS accounts, with database proxying, role-based access, administrative escalation, and activity auditing for services including EC2, RDS, ECS, EKS, and Redis. Designed to support hundreds of users; estimated licensing savings exceed $100,000 per year.
+- **Reliable patching and image maintenance:** Co-architected the Semaphore and Ansible system that has run monthly patching reliably for four years. It coordinates maintenance tasks and Aptly snapshots, with RDS coordination, and now includes Auto Scaling Group AMI patching. Based on the team's estimate, it avoids roughly a week of work for a five-engineer team per monthly cycle.
+- **Cloudflare architecture and enablement:** Serve as the Cloudflare SME and help move traffic toward Cloudflare as a common front door. Created Cloudflare Load Balancer routing and supported Workers-based paths for APIs and the marketing application. Help teams set up repositories and Wrangler workflows so they can deploy and own Workers independently rather than depending on a central specialist.
+- **Cost investigation and mitigation:** Investigated a multi-AZ traffic change associated with an approximately $600-per-day cost increase and helped the team work out how to address it. Continue investigating infrastructure cost anomalies and identifying practical fixes.
+- **Operational engineering:** Improve Auto Scaling Group image-build pipelines and use Grafana, ELK, Loggly, and Datadog for monitoring and troubleshooting. Promote reusable patterns, mentor engineers, and provide direct, constructive feedback to help the team improve.
 
 `March 2020 - November 2020`
 __O.C. Tanner - Software Engineer in Test__
