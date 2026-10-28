@@ -26,13 +26,11 @@ Staff Systems Engineer focused on cloud platforms, infrastructure automation, se
 `December 2020 - Present`
 __BambooHR - Staff Systems Engineer__
 
-- **Platform architecture and secure access:** Architected and built a Go-based internal access platform that replaced legacy SSH, bastion, and third-party tooling. Integrated AWS Systems Manager, IAM, and Okta SSO to provide governed access to infrastructure and services across multiple AWS accounts.
-- **Security and auditability:** Built workflows for database proxying, role-based access, administrative escalation, and activity auditing. The platform supports access to services including EC2, RDS, ECS, EKS, and Redis, with a design built to support hundreds of users.
+- **Platform architecture, security, and auditability:** Architected and built a Go-based internal access platform replacing legacy SSH, bastion, and third-party tooling. Integrated AWS Systems Manager, IAM, and Okta SSO across multiple AWS accounts, with database proxying, role-based access, administrative escalation, and activity auditing for services including EC2, RDS, ECS, EKS, and Redis. Designed to support hundreds of users.
 - **Cost reduction:** Helped eliminate more than $100,000 per year in estimated infrastructure-access licensing costs by replacing the previous access approach with an internally owned platform.
-- **Operational automation:** Co-architected monthly patching with Semaphore and Ansible, including Aptly snapshots, task sequencing, and coordination with related RDS updates.
-- **Repeatable infrastructure:** Built and improved Auto Scaling Group image-build pipelines and infrastructure automation, reducing reliance on manual, one-off operational steps.
+- **Operational automation:** Co-architected monthly patching with Semaphore and Ansible, including Aptly snapshots, task sequencing, and coordination with related RDS updates; also built and improved Auto Scaling Group image-build pipelines to reduce reliance on manual operational steps.
 - **Cloud edge and developer enablement:** Served as a Cloudflare Workers subject-matter resource. Helped shape URI-based routing through Cloudflare Load Balancers and Workers to regional services, and mentored frontend engineers adopting repository-based Workers workflows.
-- **Cost and reliability operations:** Investigate infrastructure cost anomalies and work through the causes and fixes, alongside ongoing production monitoring and troubleshooting with Grafana, ELK, Loggly, and Datadog.
+- **Cost and reliability operations:** Investigate infrastructure cost anomalies and work through the causes and fixes, alongside production monitoring and troubleshooting with Grafana, ELK, Loggly, and Datadog.
 - **Technical leadership:** Guide architecture and implementation, break larger initiatives into workable engineering steps, and help teams move static infrastructure toward more dynamic, maintainable systems.
 
 `March 2020 - November 2020`
