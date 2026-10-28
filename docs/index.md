@@ -12,7 +12,7 @@ title: Jared Thomson's Resume
 
 ## Summary
 
-Staff Systems Engineer focused on cloud platforms, infrastructure automation, secure access, and cost control. I design and build systems that make infrastructure safer to change and easier to operate, replacing manual work and one-off processes with repeatable platforms.
+Staff Systems Engineer focused on cloud platforms, infrastructure automation, secure access, and cost control. I design and build forward-thinking systems that make infrastructure safer to change and easier to operate, replacing manual work and one-off processes with repeatable platforms.
 
 ## Selected Impact
 
