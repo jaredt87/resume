@@ -8,6 +8,8 @@ title: Jared Thomson's Resume
 <a href="mailto:jaredt37@gmail.com">Email</a>
 | <a href="https://www.linkedin.com/in/jaredthomson1987/">LinkedIn</a>
 | <a href="https://github.com/jaredt87">GitHub</a>
+| <a href="https://jaredt87.github.io">Portfolio</a>
+| <a href="https://jaredt87.github.io/resume.html">Formatted résumé</a>
 </div>
 
 ## Summary
